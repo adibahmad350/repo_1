@@ -1,4 +1,4 @@
-# repo_1
+# repo-pertama
 ##Repository Pertama  
 Hallo!  
 Saya Manusia
